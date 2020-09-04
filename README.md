@@ -5,8 +5,8 @@
 
 ```run dino_game.py```
 
-for 1080p monitor:
 ```
+for 1080p monitor:
 ```
 ```diff
 # for day/night rectangle
