@@ -1,12 +1,9 @@
-# automate-chrome-dinosaur-game
+# automate-stuffs-with-python
 
-
+##  automate-chrome-dinosaur-game
 ```chrome://dino```
 
 ```run dino_game.py```
-
-
-### for 1080p monitor:
 
 ```diff
 # for day/night rectangle
@@ -22,4 +19,12 @@ for x in range(250, 400):
 ```diff
 !it only works on 1080p monitors
 +you have to change pixel cordinates values in above for loops if you have diffrent resolution displays
+```
+
+##  automate-2048
+```https://play2048.co/```
+
+```run 2048_bot.py```
+```diff
+!it only works on 1080p monitors
 ```
