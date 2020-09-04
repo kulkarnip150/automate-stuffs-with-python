@@ -6,6 +6,7 @@
 ```run dino_game.py```
 
 for 1080p monitor:
+
 ```for day/night pixel```
 ```def
 for i in  range(60, 61):
