@@ -20,3 +20,4 @@ for x in range(250, 400):
 ```diff
 !it only works on 1080p monitors
 +you have to change pixel cordinates values in above for loops
+```
