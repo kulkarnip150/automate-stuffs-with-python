@@ -1,6 +1,7 @@
-import pyautogui  # pip install pyautogui
-from PIL import ImageGrab  # pip install pillow
+import pyautogui
+from PIL import ImageGrab
 
+# import numpy
 import time
 
 
@@ -17,12 +18,6 @@ def nightCollide(data):
             if data[x, y] > 100:
                 hit("up")
                 return
-    # for birds
-    """for x in range(100, 220):
-        for y in range(400, 420):
-            if data[x, y] > 100:
-                hit("down")
-                return"""
     return
 
 
@@ -34,18 +29,11 @@ def dayCollide(data):
             if data[x, y] < 100:
                 hit("up")
                 return
-    # for birds
-    """for x in range(100, 220):
-        for y in range(400, 420):
-            if data[x, y] < 100:
-                hit("down")
-                return"""
     return
 
 
 if __name__ == "__main__":
     time.sleep(2)
-    # hit('up')
     while True:
         image = ImageGrab.grab().convert("L")
         data = image.load()
@@ -58,10 +46,6 @@ if __name__ == "__main__":
 
         """
         # print(asarray(image))
-        # Draw the rectangle for birds
-        for i in range(100, 220):
-            for j in range(400, 420):
-                data[i, j] = 171
         # Draw the rectangle for cactus
         for i in range(250, 400):
             for j in range(570, 650):
@@ -72,4 +56,6 @@ if __name__ == "__main__":
                 data[i, j] = 120
         image.show()
         break"""
+
+
 
