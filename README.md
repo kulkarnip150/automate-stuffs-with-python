@@ -27,4 +27,4 @@ for x in range(250, 400):
 ```run 2048_bot.py```
 ```diff
 !it only works on 1080p monitors
-```
+```subscribe to my YT channel 
