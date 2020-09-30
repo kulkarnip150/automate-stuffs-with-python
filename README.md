@@ -1,4 +1,9 @@
-# automate-stuffs-with-python
+# automate-the-boaring-stuff-with-python
+
+whenever internet goes down we love to play dinosaur game very much intrestingly 
+some of my friend love that game and they intentionally stop their internet connection and having fun with their dinosur
+but some time it becomes boring so i think why should automate our dinosaur 
+hope you'll enjoy it
 
 ##  automate-chrome-dinosaur-game
 ```chrome://dino```
