@@ -20,6 +20,7 @@ for x in range(250, 400):
 !it only works on 1080p monitors
 +you have to change pixel cordinates values in above for loops if you have diffrent resolution displays
 ```
+#Its Mahesh Nagmal
 
 ##  automate-2048
 ```https://play2048.co/```
