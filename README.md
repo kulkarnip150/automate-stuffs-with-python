@@ -28,3 +28,4 @@ for x in range(250, 400):
 ```diff
 !it only works on 1080p monitors
 ```subscribe to my YT channel 
+enjoy the code
